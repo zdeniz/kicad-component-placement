@@ -1,4 +1,4 @@
-from cgitb import text
+# from cgitb import text
 import wx
 from .dialog import *
 from ..kicad.board import get_current_unit
